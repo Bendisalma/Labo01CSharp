@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj": {}
+    "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj": {}
   },
   "projects": {
-    "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj": {
+    "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj",
+        "projectUniqueName": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj",
         "projectName": "Labo01.tests",
-        "projectPath": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj",
+        "projectPath": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\Labo01.tests.csproj",
         "packagesPath": "C:\\Users\\bendi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\obj\\",
+        "outputPath": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bendi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj": {
-                "projectPath": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj"
+              "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj": {
+                "projectPath": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj": {
+    "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj",
+        "projectUniqueName": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj",
         "projectName": "Labo01",
-        "projectPath": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj",
+        "projectPath": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\Labo01.csproj",
         "packagesPath": "C:\\Users\\bendi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\obj\\",
+        "outputPath": "C:\\Users\\bendi\\Desktop\\Cours\\Bloc04\\Programmation Web Côté serveur III\\Labo01\\Labo01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bendi\\AppData\\Roaming\\NuGet\\NuGet.Config"
