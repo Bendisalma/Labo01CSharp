@@ -13,7 +13,7 @@ public class AsciiArt
                     staircase += " ";
                 }
 
-                for (int k = 0; k < width; k++)
+                for (int k = 0; k < width + i * width; k++) // Modification ici
                 {
                     staircase += "#";
                 }

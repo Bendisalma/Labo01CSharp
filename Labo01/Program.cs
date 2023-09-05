@@ -10,7 +10,7 @@ public class Program
     {
         // List<double> liste = new List<double> { 10.5, 5.5, 30.5, 13.5 };
         AsciiArt asciiArt = new AsciiArt();
-        string result = asciiArt.CreateStaircase(2, 3);
+        string result = asciiArt.CreateStaircase(2, 2);
         Console.WriteLine(result);
 
     }
